@@ -1,0 +1,1470 @@
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/welcome.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-dg.pdf</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-concepts.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-scaling.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-images.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-codesigning.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-database.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-filesystem.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-images.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-services.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-ddb.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-s3.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sqs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sns.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-stepfunctions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/foundation-console.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-awscli.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-settingup.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-images.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/images-create.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-function-zip.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-api.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-images.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-logs-api.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-modify.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-walkthrough.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/runtimes-avx2.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/using-extensions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/foundation-progmodel.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-retries.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-metrics.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/images-test.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/access-control-identity-based.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListCodeSigningConfigs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CreateCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CreateFunction.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetFunctionCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PutFunctionCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteFunctionCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListFunctionsByCodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-efs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateFunctionConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cloudformation.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/getting-started-create-function.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-intro-execution-role.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-functions-access-metrics.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-samples.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cloudwatchevents.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-alb.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-java.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-golang.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-powershell.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-mq.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-msk.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/access-control-resource-based.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cognito.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-connect.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-lex.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-alexa.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-edge.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-kinesisfirehose.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-s3-batch.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-secrets-manager.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-ses.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cloudwatchlogs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-codecommit.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-config.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-iot.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-iotevents.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-codepipeline.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-xray.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-sync.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-code.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-blueprint.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-template.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AddPermission.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_RemovePermission.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetPolicy.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-features.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-ddb-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-ddb-create-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/kinesis-tutorial-spec.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CreateEventSourceMapping.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListEventSourceMappings.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetEventSourceMapping.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateEventSourceMapping.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteEventSourceMapping.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-create-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example-use-app-spec.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-s3-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-use-app-spec.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-create-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-example-use-app-spec.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-function-common.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sns-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-sns-create-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/stepfunctions-patterns.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/stepfunctions-lc.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-stepfunctions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetFunction.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/applications-console.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/applications-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-rolling-deployments.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/applications-usecases.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PutFunctionConcurrency.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetFunctionConcurrency.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteFunctionConcurrency.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PutProvisionedConcurrencyConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetProvisionedConcurrencyConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListProvisionedConcurrencyConfigs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteProvisionedConcurrencyConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetAccountSettings.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetFunctionConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateFunctionCode.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-ruby.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/samples-blank.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/go-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-image.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-aliases.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/functions-states.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-images.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-on-demand-custom-android.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/invocation-layers.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PublishVersion.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-api-permissions-ref.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PutFunctionEventInvokeConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetFunctionEventInvokeConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateFunctionEventInvokeConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListFunctionEventInvokeConfigs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteFunctionEventInvokeConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/samples-errorprocessor.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-exceptions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-monitoring.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/security_iam_troubleshoot.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CodeSigningConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AllowedPublishers.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CodeSigningPolicies.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/lambda-permissions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_TagResource.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_FunctionCode.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeadLetterConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_Environment.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_FileSystemConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ImageConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_TracingConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_VpcConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-tags.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_EnvironmentResponse.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_EnvironmentError.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ImageConfigResponse.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ImageConfigError.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_Layer.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_TracingConfigResponse.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_VpcConfigResponse.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-rds-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-elasticache-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-insights.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/samples-listmanager.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cloudwatchevents-expressions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/services-cloudwatchevents-tutorial.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-scheduledevents-example-use-app-spec.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-samples.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/java-package-eclipse.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/golang-envvars.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-devenv.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/powershell-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc-endpoints.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AddLayerVersionPermission.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteFunction.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListVersionsByFunction.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_CreateAlias.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetAlias.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListAliases.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateAlias.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteAlias.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListTags.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_UntagResource.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListFunctions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-tracing.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DestinationConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_OnFailure.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_OnSuccess.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_SelfManagedEventSource.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_SourceAccessConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_EventSourceMappingConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_FunctionCodeLocation.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_Concurrency.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_FunctionConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/permissions-boundary.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ProvisionedConcurrencyConfigListItem.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AccountLimit.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AccountUsage.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/nodejs-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/python-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-handler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-context.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/ruby-logging.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-package-cli.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/csharp-package-toolkit.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/logging-using-cloudtrail.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-android-example.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/with-android-create-package.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetLayerVersion.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetLayerVersionByArn.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_RemoveLayerVersionPermission.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_GetLayerVersionPolicy.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_DeleteLayerVersion.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListLayerVersions.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_PublishLayerVersion.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_ListLayers.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_FunctionEventInvokeConfig.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-cloudwatchlogs.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-code-profiler.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/monitoring-servicemap.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/security_iam_service-with-iam.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_Operations.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AliasRoutingConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_AliasConfiguration.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_LayerVersionContentOutput.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_LayerVersionsListItem.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_LayerVersionContentInput.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_LayersListItem.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/lambda/latest/dg/API_InvokeAsync.html</loc>
+  <lastmod>2021-08-13T20:04:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>

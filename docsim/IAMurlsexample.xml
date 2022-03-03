@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/iam-ug.pdf</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/intro-structure.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_identity-management.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_security-outside-iam.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_quick-links-common-tasks.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_general.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/programming.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_change-root.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_action.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-policy-validation.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_generate-policy.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_policy-validator.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand-policy-summary-access-level-summaries.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html</loc>
+  <lastmod>2021-07-01T15:45:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand-policy-summary.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_configure-api-require.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_terms-and-concepts.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-api.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_finding-unused.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_admin-change-user.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_permissions-required.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-edit.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_compare-resource-policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_sign-in.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_u2f.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_identifiers.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/using-service-linked-roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_iam-tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-using-service-linked-roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_permissions-to-switch.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_request.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_disable-perms.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot-aws-sign-in.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-quotas.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys_retrieve.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_version.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-versioning.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListVirtualMFADevices.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteVirtualMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_add-remove-users.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/welcome.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateAccessKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateAccessKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListAccessKeys.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetAccessKeyLastUsed.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteAccessKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage-pass-accesskeys-ssh.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/cloudtrail-integration.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_iam-condition-keys.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_checking-status.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_sync.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_disable.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_lost-or-broken.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_sample-code.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_sms.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_list.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_attach-policy.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_rename.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_delete.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Operations.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_grammar.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-reference-policy-checks.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-getting-started.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-service.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_passrole.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-attach-detach.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-view-data.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-view-data-orgs.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-example-scenarios.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GenerateOrganizationsAccessReport.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_service-accessed-data-orgs.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-deprecated.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions_create-policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notaction.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetPolicyVersion.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand-service-summary.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand-action-summary.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_policy-summary-examples.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/service-authorization/latest/reference/service-authorization.pdf</loc>
+  <lastmod>2021-07-01T15:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_resource.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition_operators.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_multi-value-conditions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_enable-user-change.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateAccountPasswordPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetAccountPasswordPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteAccountPasswordPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-resources.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-findings-remediate.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_session-tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListUsers.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_change-permissions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_manage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetLoginProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateLoginProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateLoginProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteLoginProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GenerateCredentialReport.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetCredentialReport.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws-dates.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_ssh-keys.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_server-certs.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_delegate-permissions_examples.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_revoke-sessions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_cognito.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_manual.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_user-id.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc_resources.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp_oidc.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp_saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_roles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AttachRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PutRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_users.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PutRolePermissionsBoundary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListPolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListEntitiesForPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListAttachedUserPolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListAttachedGroupPolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListAttachedRolePolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreatePolicyVersion.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SetDefaultPolicyVersion.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeletePolicyVersion.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_abac-saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_tag-owner.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2-start-stop-match-tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2-start-stop-tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-assume-tagged-role.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/service-authorization/latest/reference/list_awssecretsmanager.html</loc>
+  <lastmod>2021-07-01T15:45:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-delete.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage-mfa-only.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_cliapi.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/console_sign-in-mfa.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_u2f_supported_configurations.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_EnableMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_customer-managed-policies.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_idps.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_instance-profiles.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_server-certificates.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_virtual-mfa.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_policy-sim-path.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_User.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_bearer.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_monitor.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_deny-ip.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateServiceLinkedRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteServiceLinkedRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetServiceLinkedRoleDeletionStatus.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_saml_assertions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage_modify.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetAccountSummary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_assumerole.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_getfederationtoken.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_getsessiontoken.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_enable-create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage-no-mfa.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_user-change-own.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/iam-api.pdf</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/CommonParameters.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_VirtualMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Tag.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AttachedPermissionsBoundary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/CommonErrors.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeactivateMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AddUserToGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AttachUserPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateAccountAlias.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteAccountAlias.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListAccountAliases.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws-enable-disable-regions.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_mfa-dates.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage-password-only.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_deny-requested-region.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_datapipeline_not-owned.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_specific-table.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_attributes.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_dynamodb_items.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_volumes-instance.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_ebs-owner.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_instances-subnet.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_securitygroups-vpc.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_region.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_instance-securitygroup.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_require-mfa.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_terminate-ip.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_policy-sim.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_policy-sim-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_multiple-services-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-add-tag.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-add-tag-user-role.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-new-user-tag.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-credential-report.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_manage-group-membership.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-manage-tags.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam-passrole-service.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_read-only-console-no-reporting.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_read-only-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_users-manage-group.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_set-account-pass-policy.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_policy-sim-path-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_mfa-selfmanage.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_credentials_console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_iam_limit-managed.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_lambda-access-dynamodb.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_rds_region.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_rds_db-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_rds_tag-owner.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_cognito-bucket.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_federated-home-directory-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_full-access-except-production.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_home-directory-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_deny-except-bucket.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_rw-bucket.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_rw-bucket-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RemoveUserFromGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/console_controlling-access.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SetSecurityTokenServicePreferences.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AccessKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AccessKeyMetadata.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AccessKeyLastUsed.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ResyncMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListGroups.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListGroupsForUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AttachGroupPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListGroupPolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteGroupPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DetachGroupPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AddClientIDToOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AddRoleToInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ChangePassword.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreatePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateServiceSpecificCredential.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_CreateVirtualMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeletePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteRolePermissionsBoundary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteServiceSpecificCredential.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSigningCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSSHPublicKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteUserPermissionsBoundary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteUserPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DetachRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DetachUserPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GenerateServiceLastAccessedDetails.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetAccountAuthorizationDetails.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetContextKeysForCustomPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetContextKeysForPrincipalPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetGroupPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetOrganizationsAccessReport.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetServiceLastAccessedDetails.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetServiceLastAccessedDetailsWithEntities.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetSSHPublicKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GetUserPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListInstanceProfiles.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListInstanceProfilesForRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListInstanceProfileTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListMFADevices.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListMFADeviceTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListOpenIDConnectProviders.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListOpenIDConnectProviderTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListPoliciesGrantingServiceAccess.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListPolicyTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListPolicyVersions.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListRolePolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListRoles.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListRoleTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListSAMLProviders.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListSAMLProviderTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListServerCertificates.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListServerCertificateTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListServiceSpecificCredentials.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListSigningCertificates.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListSSHPublicKeys.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListUserPolicies.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListUserTags.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PutGroupPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PutUserPermissionsBoundary.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PutUserPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RemoveClientIDFromOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RemoveRoleFromInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ResetServiceSpecificCredential.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SimulateCustomPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SimulatePrincipalPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TagUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagInstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagMFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagOpenIDConnectProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UntagUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateAssumeRolePolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateOpenIDConnectProviderThumbprint.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateRoleDescription.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateSAMLProvider.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateServiceSpecificCredential.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateSigningCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateSSHPublicKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UpdateUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UploadServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UploadSigningCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UploadSSHPublicKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_effect.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notresource.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_sid.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notprincipal.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_statement.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-settings.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage_delete.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyVersion.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_id.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_datatypes.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PasswordPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_policy-examples.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-findings-filter.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/service-authorization/latest/reference/list_awskeymanagementservice.html</loc>
+  <lastmod>2021-07-01T15:45:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_saml_3rd-party.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-cli.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-twp.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_LoginProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_federated-users.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_third-party.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_services.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_saml_relying-party.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Role.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RoleLastUsed.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Policy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyGroup.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyRole.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyUser.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AttachedPolicy.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/roles-managingrole-editing-console.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_mfa-u2f.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_idps_oidc.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags_idps_saml.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Group.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_InstanceProfile.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ServerCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ServerCertificateMetadata.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeletionTaskFailureReasonType.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RoleUsageType.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/roles-managingrole-editing-cli.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/roles-managingrole-editing-api.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPracticesAndUseCases.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/service-authorization/latest/reference/list_identityandaccessmanagement.html</loc>
+  <lastmod>2021-07-01T15:45:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc_verify-thumbprint.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_OpenIDConnectProviderListEntry.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ServiceSpecificCredential.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_GroupDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ManagedPolicyDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_RoleDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_UserDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_AccessDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ErrorDetails.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ServiceLastAccessed.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_TrackedActionLastAccessed.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_EntityDetails.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_EntityInfo.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SSHPublicKey.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_MFADevice.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ListPoliciesGrantingServiceAccessEntry.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyGrantingServiceAccess.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SAMLProviderListEntry.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ServiceSpecificCredentialMetadata.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SigningCertificate.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_SSHPublicKeyMetadata.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ContextEntry.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_EvaluationResult.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Statement.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_Position.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_OrganizationsDecisionDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_PermissionsBoundaryDecisionDetail.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/APIReference/API_ResourceSpecificResult.html</loc>
+  <lastmod>2021-07-01T14:42:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-reference-filter-keys.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-and-creds.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/IAM/latest/UserGuide/IAM_UseCases.html</loc>
+  <lastmod>2021-07-01T14:42:50+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>

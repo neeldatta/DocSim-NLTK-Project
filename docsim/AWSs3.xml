@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-userguide.pdf</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingObjects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/MakingRequests.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-access-control.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-bucket-intro.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-keys.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-iam-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerLogs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RequesterPaysBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketBilling.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-usage-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-access-points.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-access-points.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-restrictions-limitations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingMetadata.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/upload-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ipv6-access.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/MakingAuthenticatedRequests.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RESTAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RESTAuthentication.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-alternatives-guidelines.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-s3-evaluates-access-control.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/acls.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-analyzer.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-owner-condition.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/VirtualHosting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeletingObjectVersions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/manage-versioning-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/manage-objects-versioned-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/VersionSuspendedBehavior.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/versioning-workflows.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/archived-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/add-object-metadata.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/restoring-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingServerSideEncryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3onOutposts.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-add-config.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/amazon-s3-policy-keys.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/list_amazons3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/user-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-walkthroughs-managing-access.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-service-linked-roles.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/finding-canonical-user-id.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/managing-acls.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-with-s3-actions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-alias.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteEndpoints.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/EnableWebsiteHosting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/IndexDocumentSupport.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/CustomErrorDocSupport.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/LoggingWebsiteTraffic.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/hosting-websites-on-s3-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-block-public-access-account.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-block-public-access-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ManageCorsUsing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/enabling-cors-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors-troubleshooting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-metrics.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-event-types-and-destinations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/grant-destinations-permissions-to-s3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-enable-disable-notification-intro.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ways-to-add-notification-config-to-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-filtering.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-content-structure.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-expire-general-considerations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/intro-lifecycle-rules.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-and-other-bucket-config.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-configuration-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/enable-server-access-logging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/deleting-log-files-lifecycle.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/LogFormat.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-s3-access-logs-to-identify-requests.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-managing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-console.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-additional-configs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-what-is-isnot-replicated.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-how-setup.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-example-walkthroughs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-status.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-troubleshoot.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-and-other-bucket-configs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-time-control.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RequesterPaysExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketPayerValues.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ObjectsinRequesterPaysBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-billing-reports.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-usage-report.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-usage-report-understand.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration-getting-started.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration-speed-comparison.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-access-points.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-vpc.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-bpa-settings.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-monitoring-logging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-manage.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-tagging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingTheMPDotNetAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingTheMPJavaAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingTheMPphpAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingAWSSDK.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/dual-stack-endpoints.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/add-bucket-policy.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/AuthUsingAcctOrUserCredentials.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/AuthUsingTempSessionToken.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/AuthUsingTempFederationToken.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RESTRedirect.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingHTTPPOST.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/walkthrough1.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-best-practices.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-auth-workflow-bucket-operation.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-auth-workflow-object-operation.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-change-owner.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeleteMarker.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeletingObjects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingTheBotoAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ManagingDelMarkers.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingMFADelete.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/AddingObjectstoVersioningEnabledBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/list-obj-version-enabled-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RetrievingObjectVersions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/VersionedObjectPermissionsandACLs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/AddingObjectstoVersionSuspendedBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RetrievingObjectsfromVersioningSuspendedBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeletingObjectsfromVersioningSuspendedBuckets.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/setup-aws-cli.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingTheMPRubyAPI.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/troubleshooting-by-symptom.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/restoring-objects-retrieval-options.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/querying-glacier-archives.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/view-object-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/specifying-s3-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/specifying-s3-c-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsGS.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OnOutpostsRestrictionsLimitations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsIAM.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/WorkingWithS3Outposts.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/MonitoringS3Outposts.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-config-for-kms-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/delete-marker-replication.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/amazon-s3-condition-keys.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/tagging-and-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-arn-format.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-bucket-user-policy-specifying-principal-intro.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies-vpc-endpoint.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-policies-s3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-walkthroughs-managing-access-example1.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-walkthroughs-managing-access-example2.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-walkthroughs-managing-access-example3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-walkthroughs-managing-access-example4.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/policy-eval-walkthrough-download-awscli.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/viewing-replication-metrics.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-walkthrough1.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/enable-event-notifications.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/abort-mpu.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RestoringPreviousVersions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/default-bucket-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/view-bucket-properties.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingRESTError.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-request-identification.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-for-metadata-changes.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-walkthrough-2.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-walkthrough-3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-walkthrough-4.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-walkthrough-5.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/disable-replication.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/rtc-best-practices.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudwatch-monitoring.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/CostAllocTagging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-buckets-s3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/specifying-kms-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingClientSideEncryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-abort-incomplete-mpu-lifecycle-config.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-upload-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/HLuploadDirDotNet.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/list-mpu.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/track-mpu.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/CopyingObjectsMPUapi.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/qfacts.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/tagging-managing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-mobile-sdks.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-aws-amplify.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-aws-javascript.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/ListingKeysUsingAPIs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-folders.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory-location.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-inventory.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory-notification.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory-athena-query.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-analytics-storage-class.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_basics_metrics_recommendations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_view_metrics_export.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3LensExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_with_organizations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_iam_permissions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_view_metrics.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-lens-optimize-storage.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_metrics_glossary.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-incident-response.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/getting-started-cleanup.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/delete-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/delete-multiple-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/download-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/RetMetaOfObjVersion.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-operations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-managing-jobs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/copy-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/privatelink-interface-endpoints.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/metrics-dimensions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/enable-cloudtrail-logging-for-s3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/outposts-console.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsCLIExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsJavaExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/uploading-an-object-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/delete-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-request-metrics-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-encryption.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/logging-with-S3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/SOAPAPI3.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging-s3-info.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging-understanding-s3-entries.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/metrics-configurations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudwatch-monitoring-accessing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/organizing-objects.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/empty-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-bucket-key-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/configuring-bucket-key.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/viewing-bucket-key-settings.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/view-object-properties.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-prefixes.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_viewing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_creating_editing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_disabling_deleting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_organizations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_encrypt_permissions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_whatis_metrics_export_manifest.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_understanding_metrics_export_schema.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3LensCLIExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3LensJavaExamples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_organizations_registering_delegated_admins.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_organizations_deregistering_delegated_admins.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_view_metrics_dashboard.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-overview.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-copy-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-invoke-lambda.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-put-object-tagging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-delete-object-tagging.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-put-object-acl.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-initiate-restore-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-retention-date.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-legal-hold.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-list-jobs.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-job-details.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-job-priority.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-select.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-data-types.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-operators.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-keyword-list.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-sql-functions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-create-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-edit-bucket-properties.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-delete-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-bucket-manage-outpost-access-points.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsBucketJava.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/S3OutpostsObjectJava.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/accessing-an-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/metrics-configurations-filter.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingSOAPOperations.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/SOAPAuthentication.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/SOAPAccessPolicy.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/delete-request-metrics-filter.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-copy-example-bucket-key.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_creating.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_editing.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_disabling.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_deleting.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_organizations_enabling_trusted_access.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage_lens_console_organizations_disabling_trusted_access.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-automated-manual.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-create-job.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-object-lock-retention.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-legal-hold-off.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-conversion.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-aggregate.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-conditional.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-date.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-string.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-add-bucket-tags.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-add-bucket-events-cloudtrail.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-bucket-edit-permissions.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-bucket-lifecycle.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-outposts-bucket-edit-outpost-access-point.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/copying-an-object.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-iam-role-policies.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-job-status.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-examples-reports.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-job-tags.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/deleting-object-bucket.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-job-tags-examples.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-examples-copy.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-examples-event-bridge-cloud-trail.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/specify-batchjob-manifest-xaccount-inventory.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/specify-batchjob-manifest-xaccount-csv.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-tags-create.html</loc>
+  <lastmod>2021-08-14T02:49:44+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+
+
+</urlset>

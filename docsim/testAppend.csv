@@ -1,0 +1,11 @@
+Policy,Score,URL
+Access Control. Access to program source code shall be restricted.,0.11051540310410501,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Access Control. Access to program source code shall be restricted.,0.09393017596828869,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-control-details.html
+Access Control. Access to program source code shall be restricted.,0.09106906428565212,https://docs.aws.amazon.com/securityhub/latest/userguide/controls-view-manage.html
+Access Control. Access to program source code shall be restricted.,0.08272049332358315,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-enable-disable-controls.html
+Access Control. Access to program source code shall be restricted.,0.0824923721428059,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html
+Access Control. Access to program source code shall be restricted.,0.11051540310410501,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Access Control. Access to program source code shall be restricted.,0.09393017596828869,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-control-details.html
+Access Control. Access to program source code shall be restricted.,0.09106906428565212,https://docs.aws.amazon.com/securityhub/latest/userguide/controls-view-manage.html
+Access Control. Access to program source code shall be restricted.,0.08272049332358315,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-enable-disable-controls.html
+Access Control. Access to program source code shall be restricted.,0.0824923721428059,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html

@@ -1,0 +1,16 @@
+Policy,Score,URL
+"System Acquisition, Development and Maintenance. The organization shall supervise and monitor the activity of outsourced system development",0.13785561029207935,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html
+"System Acquisition, Development and Maintenance. The organization shall supervise and monitor the activity of outsourced system development",0.11944927588273313,https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_generate-policy.html
+"System Acquisition, Development and Maintenance. The organization shall supervise and monitor the activity of outsourced system development",0.1072675689954187,https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-view-data-orgs.html
+"System Acquisition, Development and Maintenance. The organization shall supervise and monitor the activity of outsourced system development",0.09335468502453498,https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html
+"System Acquisition, Development and Maintenance. The organization shall supervise and monitor the activity of outsourced system development",0.06360937483719291,https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor.html
+Operations Security. Logging facilities and log information shall be protected against tampering and unauthorized access.,0.10448882939854597,https://docs.aws.amazon.com/IAM/latest/UserGuide/cloudtrail-integration.html
+Operations Security. Logging facilities and log information shall be protected against tampering and unauthorized access.,0.08013463788495445,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_sign-in.html
+Operations Security. Logging facilities and log information shall be protected against tampering and unauthorized access.,0.06837843791524148,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access.html
+Operations Security. Logging facilities and log information shall be protected against tampering and unauthorized access.,0.056961847084296094,https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+Operations Security. Logging facilities and log information shall be protected against tampering and unauthorized access.,0.05667130839976625,https://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPracticesAndUseCases.html
+Access Control. Access to program source code shall be restricted.,0.21756344566815342,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_monitor.html
+Access Control. Access to program source code shall be restricted.,0.09358870045733551,https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_deny-ip.html
+Access Control. Access to program source code shall be restricted.,0.08138950599690192,https://docs.aws.amazon.com/IAM/latest/UserGuide/access_tags.html
+Access Control. Access to program source code shall be restricted.,0.08096326304996408,https://docs.aws.amazon.com/IAM/latest/UserGuide/access_iam-tags.html
+Access Control. Access to program source code shall be restricted.,0.07796240653408049,https://docs.aws.amazon.com/IAM/latest/APIReference/CommonErrors.html

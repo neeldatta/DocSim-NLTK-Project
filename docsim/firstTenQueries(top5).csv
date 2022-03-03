@@ -1,0 +1,151 @@
+Policy,Score,URL
+Organizational processes for intrusion detection/information system monitoring,0.06135781194334415,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Organizational processes for intrusion detection/information system monitoring,0.04173900199497619,https://docs.aws.amazon.com/securityhub/latest/userguide/standards-fsbp-config-resources.html
+Organizational processes for intrusion detection/information system monitoring,0.04010037060502282,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html
+Organizational processes for intrusion detection/information system monitoring,0.03383461359408423,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-internal-providers.html
+Organizational processes for intrusion detection/information system monitoring,0.03099171544358355,https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html
+Automated mechanisms implementing information flow enforcement policy,0.07823268071134279,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-integrations-managing.html
+Automated mechanisms implementing information flow enforcement policy,0.07575548678806263,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Automated mechanisms implementing information flow enforcement policy,0.041245596236052645,https://docs.aws.amazon.com/securityhub/latest/userguide/standards-available.html
+Automated mechanisms implementing information flow enforcement policy,0.038892681077559194,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html
+Automated mechanisms implementing information flow enforcement policy,0.0386300754066622,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-checks-not-supported.html
+Organizational processes for re-implementing or customized development of critical information system components,0.12000341539973111,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Organizational processes for re-implementing or customized development of critical information system components,0.04991244793838387,https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html
+Organizational processes for re-implementing or customized development of critical information system components,0.04274897187459015,https://docs.aws.amazon.com/securityhub/latest/userguide/controls-findings-create-update.html
+Organizational processes for re-implementing or customized development of critical information system components,0.03947718543591368,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-internal-providers.html
+Organizational processes for re-implementing or customized development of critical information system components,0.03482945908706107,https://docs.aws.amazon.com/securityhub/latest/userguide/standards-fsbp-config-resources.html
+Automated mechanisms supporting and/or implementing physical disconnect of collaborative computing devices,0.040791495846041914,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Automated mechanisms supporting and/or implementing physical disconnect of collaborative computing devices,0.020522201325911114,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-checks-not-supported.html
+Automated mechanisms supporting and/or implementing physical disconnect of collaborative computing devices,0.01896738712610738,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-pcidss.html
+Automated mechanisms supporting and/or implementing physical disconnect of collaborative computing devices,0.010463993734189608,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards.html
+Automated mechanisms supporting and/or implementing physical disconnect of collaborative computing devices,0.009988170802003702,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Organizational processes for information system monitoring,0.0894345271821538,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Organizational processes for information system monitoring,0.06330216628234288,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-internal-providers.html
+Organizational processes for information system monitoring,0.05584947828239644,https://docs.aws.amazon.com/securityhub/latest/userguide/standards-fsbp-config-resources.html
+Organizational processes for information system monitoring,0.05365688373408719,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html
+Organizational processes for information system monitoring,0.04146891530393951,https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html
+Automated mechanisms implementing mandatory access control,0.10956258699463682,https://docs.aws.amazon.com/securityhub/latest/userguide/controls-view-manage.html
+Automated mechanisms implementing mandatory access control,0.10306506319707492,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-control-details.html
+Automated mechanisms implementing mandatory access control,0.0995186600092501,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-enable-disable-controls.html
+Automated mechanisms implementing mandatory access control,0.09472100650767565,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-view-controls.html
+Automated mechanisms implementing mandatory access control,0.07930804153121963,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Organizational processes for detection of unauthorized information system components,0.16241683167047147,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html
+Organizational processes for detection of unauthorized information system components,0.06389781608062765,https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html
+Organizational processes for detection of unauthorized information system components,0.05082702520661658,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-internal-providers.html
+Organizational processes for detection of unauthorized information system components,0.044843059995366204,https://docs.aws.amazon.com/securityhub/latest/userguide/standards-fsbp-config-resources.html
+Organizational processes for detection of unauthorized information system components,0.043082566399021624,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html
+Automated mechanisms supporting and/or implementing enforcement of adherence to protocol formats,0.05407626735409838,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cwe-event-formats.html
+Automated mechanisms supporting and/or implementing enforcement of adherence to protocol formats,0.05029842794164968,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Automated mechanisms supporting and/or implementing enforcement of adherence to protocol formats,0.03088923647245162,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html
+Automated mechanisms supporting and/or implementing enforcement of adherence to protocol formats,0.028386620628973833,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html
+Automated mechanisms supporting and/or implementing enforcement of adherence to protocol formats,0.023016237261760296,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format-attributes.html
+Automated mechanisms preventing automatic execution of unacceptable mobile code,0.04857923994133089,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Automated mechanisms preventing automatic execution of unacceptable mobile code,0.03020261737140547,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html
+Automated mechanisms preventing automatic execution of unacceptable mobile code,0.02444021533553228,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-checks-not-supported.html
+Automated mechanisms preventing automatic execution of unacceptable mobile code,0.015313007242019776,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format-type-taxonomy.html
+Automated mechanisms preventing automatic execution of unacceptable mobile code,0.014506420384386876,https://docs.aws.amazon.com/securityhub/latest/userguide/controls-findings-create-update.html
+Automated mechanisms supporting and/or implementing safeguards for authenticator management,0.06326311760216496,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html
+Automated mechanisms supporting and/or implementing safeguards for authenticator management,0.02403629720614131,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html
+Automated mechanisms supporting and/or implementing safeguards for authenticator management,0.023929128151825893,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-checks-not-supported.html
+Automated mechanisms supporting and/or implementing safeguards for authenticator management,0.02271160043034638,https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html
+Automated mechanisms supporting and/or implementing safeguards for authenticator management,0.02211619650533595,https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-pcidss.html
+
+Automated mechanisms implementing cross-organizational auditing (if applicable),0.12134064767869494,https://docs.aws.amazon.com/sagemaker/latest/dg/sms-automated-labeling.html
+
+Automated mechanisms implementing cross-organizational auditing (if applicable),0.07380705041713362,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Athena/Types/UnprocessedNamedQueryId.html
+
+Automated mechanisms implementing cross-organizational auditing (if applicable),0.07215465212431064,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Athena/Types/UnprocessedQueryExecutionId.html
+
+Automated mechanisms implementing cross-organizational auditing (if applicable),0.06351478958210884,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Amplify/Types/UpdateDomainAssociationRequest.html
+
+Automated mechanisms implementing cross-organizational auditing (if applicable),0.06275878923596685,https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/using-govcloud-endpoints.html
+
+Automated mechanisms implementing information flow enforcement policy,0.22754782154871125,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Appflow/Types/FlowDefinition.html
+
+Automated mechanisms implementing information flow enforcement policy,0.21956223291482918,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Appflow/Types/DescribeFlowResponse.html
+
+Automated mechanisms implementing information flow enforcement policy,0.18716750206491278,https://docs.aws.amazon.com/general/latest/gr/appflow.html
+
+Automated mechanisms implementing information flow enforcement policy,0.18699676075100716,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Appflow/Types/StartFlowResponse.html
+
+Automated mechanisms implementing information flow enforcement policy,0.1809296200633928,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Appflow/Types/ExecutionRecord.html
+
+"Automated mechanisms supporting and/or implementing loading and executing the operating environment from hardware-enforced, read-only media",0.15086478826313257,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Cloud9/Types/EnvironmentMember.html
+
+"Automated mechanisms supporting and/or implementing loading and executing the operating environment from hardware-enforced, read-only media",0.1435212405052312,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Cloud9/Types/Environment.html
+
+"Automated mechanisms supporting and/or implementing loading and executing the operating environment from hardware-enforced, read-only media",0.14237359575507472,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Cloud9/Types/CreateEnvironmentMembershipRequest.html
+
+"Automated mechanisms supporting and/or implementing loading and executing the operating environment from hardware-enforced, read-only media",0.14033062242012215,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Chime/Types/SipMediaApplication.html
+
+"Automated mechanisms supporting and/or implementing loading and executing the operating environment from hardware-enforced, read-only media",0.13624543782456697,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Cloud9/Types/UpdateEnvironmentMembershipRequest.html
+
+"Automated mechanisms supporting and/or implementing mobile code detection, inspection, and corrective capability",0.154867970483242,https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/getting-started-analytics.html
+
+"Automated mechanisms supporting and/or implementing mobile code detection, inspection, and corrective capability",0.1491199260951155,https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/getting-started-xamarin.html
+
+"Automated mechanisms supporting and/or implementing mobile code detection, inspection, and corrective capability",0.13699829622411375,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Comprehend/Types/TopicsDetectionJobProperties.html
+
+"Automated mechanisms supporting and/or implementing mobile code detection, inspection, and corrective capability",0.1365946878472343,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/ComprehendMedical/Types/ComprehendMedicalAsyncJobProperties.html
+
+"Automated mechanisms supporting and/or implementing mobile code detection, inspection, and corrective capability",0.13621942250840513,https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/analytics.html
+
+Organizational processes for protecting nonlocal maintenance sessions,0.23440154444396552,https://docs.aws.amazon.com/sdkref/latest/guide/support-maint.html
+
+Organizational processes for protecting nonlocal maintenance sessions,0.21109109092029352,https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html
+
+Organizational processes for protecting nonlocal maintenance sessions,0.18151627162588246,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_session-tags.html
+
+Organizational processes for protecting nonlocal maintenance sessions,0.1671775913765312,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/AppStream/Types/Session.html
+
+Organizational processes for protecting nonlocal maintenance sessions,0.1626674332231351,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CodePipeline/Types/AWSSessionCredentials.html
+
+Automated mechanisms implementing techniques or technologies associating security attributes to information,0.1345673691963208,https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html
+
+Automated mechanisms implementing techniques or technologies associating security attributes to information,0.1340240967227865,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html
+
+Automated mechanisms implementing techniques or technologies associating security attributes to information,0.12963072868555006,https://docs.aws.amazon.com/securityhub/latest/userguide/security.html
+
+Automated mechanisms implementing techniques or technologies associating security attributes to information,0.12210985119523031,https://docs.aws.amazon.com/sagemaker/latest/dg/sms-automated-labeling.html
+
+Automated mechanisms implementing techniques or technologies associating security attributes to information,0.11688383137909263,https://docs.aws.amazon.com/parallelcluster/latest/ug/security.html
+
+Automated mechanisms supporting and/or implementing multifactor authentication capability,0.1179192205302934,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CloudFront/Types/CustomErrorResponses.html
+
+Automated mechanisms supporting and/or implementing multifactor authentication capability,0.11469049348628205,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CloudFormation/Types/ValidateTemplateOutput.html
+
+Automated mechanisms supporting and/or implementing multifactor authentication capability,0.10885484736941661,https://docs.aws.amazon.com/sagemaker/latest/dg/sms-automated-labeling.html
+
+Automated mechanisms supporting and/or implementing multifactor authentication capability,0.09367795745745612,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/Chime/Types/UpdateProxySessionRequest.html
+
+Automated mechanisms supporting and/or implementing multifactor authentication capability,0.08916400808536738,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CloudFormation/Types/GetTemplateSummaryOutput.html
+
+Organizational processes for designing the information security architecture,0.19326450178301327,https://docs.aws.amazon.com/securityhub/latest/userguide/security.html
+
+Organizational processes for designing the information security architecture,0.18903256398139123,https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/security.html
+
+Organizational processes for designing the information security architecture,0.18725799596425188,https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html
+
+Organizational processes for designing the information security architecture,0.18650200203727688,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html
+
+Organizational processes for designing the information security architecture,0.18119304596507385,https://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/security.html
+
+Automated mechanisms implementing least privilege functions,0.1813834477738596,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/AppSync/Types/FunctionConfiguration.html
+
+Automated mechanisms implementing least privilege functions,0.17409493540274154,https://docs.aws.amazon.com/step-functions/latest/dg/security.html
+
+Automated mechanisms implementing least privilege functions,0.1628120100731688,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CloudFront/Types/LambdaFunctionAssociation.html
+
+Automated mechanisms implementing least privilege functions,0.16036964855506342,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/AppSync/Types/UpdateFunctionRequest.html
+
+Automated mechanisms implementing least privilege functions,0.15444566647421626,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/AppSync/Types/CreateFunctionRequest.html
+
+"Organizational processes for vulnerability analysis of information systems, system components, or information system services under development",0.43610470076886304,https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html
+
+"Organizational processes for vulnerability analysis of information systems, system components, or information system services under development",0.4283471025191329,https://docs.aws.amazon.com/systems-manager/latest/userguide/security.html
+
+"Organizational processes for vulnerability analysis of information systems, system components, or information system services under development",0.33771743530587434,https://docs.aws.amazon.com/systems-manager/latest/userguide/using-service-linked-roles.html
+
+"Organizational processes for vulnerability analysis of information systems, system components, or information system services under development",0.31045857570617064,https://docs.aws.amazon.com/sdk-for-ruby/v2/api/Aws/CodeBuild/Types/ProjectFileSystemLocation.html
+
+"Organizational processes for vulnerability analysis of information systems, system components, or information system services under development",0.2976944293276068,https://docs.aws.amazon.com/systems-manager/latest/userguide/execute-remote-commands.html

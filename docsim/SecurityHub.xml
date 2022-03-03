@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub.pdf</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-benefits.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-get-started.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-free-trial.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-providers.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-viewing.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-taking-action.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-insights.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-integrations-managing.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-internal-providers.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-custom-providers.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-pcidss.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-controls-finding-generation.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/standards-view-manage.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/controls-view-manage.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/standards-available.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-insights-view-take-action.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-control-manage-findings.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/findings-filtering-grouping.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-view-details.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-retrieve-api-cli.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-workflow-status.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-send-to-custom-action.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-managed-insights.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-custom-insights.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-regions.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-config-resources.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cis-controls.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-to-disable.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis-checks-not-supported.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-view-controls.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-pci-config-resources.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-pcidss-to-disable.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/control-categories.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/standards-fsbp-config-resources.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-to-disable.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-schedule.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-awsconfigrules.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/controls-findings-create-update.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/controls-overall-status.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/standards-security-score.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-enable-disable.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-control-details.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/controls-auto-enable.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-enable-disable-controls.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/control-finding-list.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/control-finding-resource-details.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/control-finding-take-action.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format-syntax.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format-attributes.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format-type-taxonomy.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-prereq-config.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cwe-integration-types.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cwe-event-formats.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cwe-all-findings.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cwe-custom-actions.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-update-batchimportfindings.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.aws.amazon.com/securityhub/latest/userguide/finding-update-batchupdatefindings.html</loc>
+  <lastmod>2021-08-27T18:27:41+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
+</urlset>
